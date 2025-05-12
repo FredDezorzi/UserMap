@@ -1,9 +1,6 @@
-package com.usermap.dto;
+package com.usermap.model.dto;
 
-import com.usermap.entity.Address;
-import jakarta.persistence.CascadeType;
-import jakarta.persistence.Column;
-import jakarta.persistence.OneToMany;
+import com.usermap.model.entity.Address;
 import lombok.Data;
 
 import java.util.List;

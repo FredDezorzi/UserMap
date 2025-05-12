@@ -1,4 +1,4 @@
-package com.usermap.entity;
+package com.usermap.model.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

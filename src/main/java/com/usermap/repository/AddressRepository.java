@@ -1,6 +1,6 @@
 package com.usermap.repository;
 
-import com.usermap.entity.Address;
+import com.usermap.model.entity.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.usermap.dto;
+package com.usermap.model.dto;
 
 import jakarta.persistence.Column;
 import lombok.Data;
